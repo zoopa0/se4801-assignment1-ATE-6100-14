@@ -1,7 +1,7 @@
 # ShopWave Starter
 
 # Name: Ayansa Adugna
-Student Number: ATE/6100/14
+# Student Number: ATE/6100/14
 
 ## Project Description
 Spring Boot application for managing products in a ShopWave system.
