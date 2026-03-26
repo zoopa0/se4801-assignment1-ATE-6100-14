@@ -1,6 +1,6 @@
 # ShopWave Starter
 
-Name: Ayansa Adugna
+# Name: Ayansa Adugna
 Student Number: ATE/6100/14
 
 ## Project Description
